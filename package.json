@@ -1,0 +1,34 @@
+{
+  "name": "@dwlib/base32hex",
+  "version": "1.0.0",
+  "description": "Base32Hex",
+  "main": "lib/index.js",
+  "exports": {
+    "require": "./lib/index.js",
+    "import": "./lib/index.mjs"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwlib-js/base32hex.git"
+  },
+  "keywords": [
+    "base32hex",
+    "encoding",
+    "decoding"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwlib-js/base32hex/issues"
+  },
+  "homepage": "https://github.com/dwlib-js/base32hex#readme",
+  "dependencies": {
+    "@dwlib/abstract": "^1.0.2",
+    "@dwlib/primordials": "^1.0.2",
+    "@dwlib/utf8": "^1.0.3"
+  }
+}
