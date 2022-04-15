@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/base32hex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base32Hex",
   "main": "lib/index.js",
   "imports": {
